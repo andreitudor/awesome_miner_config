@@ -1,0 +1,100 @@
+{coinFullName: "01Coin", CoinShortName: "ZOC", Algo: "NeoScrypt", BlockReward: 13, BlockTime: 150, BlockExplorer: "http://01coin.lchain.cc/ext/summary"}
+{CoinFullName: "Absolute Coin", CoinShortName: "ABS", Algo: "Lyra2REv2", BlockReward: 6, BlockTime: 90, BlockExplorer: "http://www.explorer.absolute-coin.com/ext/summary"}
+{coinFullName: "Agena", CoinShortName: "AGN", Algo: "NeoScrypt", BlockReward: 6, BlockTime: 90, BlockExplorer: "http://explorer.agenaproject.com/ext/summary"}
+{CoinFullName: "Akroma", CoinShortName: "AKA", Algo: "Ethereum", BlockReward: 7, BlockTime: 10, BlockExplorer: "minerpool"}
+{coinFullName: "ArchimedCoin", CoinShortName: "ARHM", Algo: "NeoScrypt", BlockReward: 3, BlockTime: 300, BlockExplorer: "http://explorer.archimedcoin.com/ext/summary"}
+{CoinFullName: "Argo", CoinShortName: "ARGO", Algo: "Skein", BlockReward: 47.168, BlockTime: 60, BlockExplorer: "http://explorer.argocash.com/ext/summary"}
+{CoinFullName: "Banq", CoinShortName: "BANQ", Algo: "NeoScrypt", BlockReward: 3, BlockTime: 180, BlockExplorer: "http://128.199.42.147:3001/ext/summary"}
+{CoinFullName: "Bash Coin", CoinShortName: "BASHC", Algo: "Skein", BlockReward: 8, BlockTime: 60, BlockExplorer: "http://bashcoin.lchain.cc/ext/summary"}
+{CoinFullName: "BitcoinZ", CoinShortName: "BTCZ", Algo: "Equihash", BlockReward: 12500, BlockTime: 154, BlockExplorer: "https://explorer.bitcoinz.site/ext/summary"}
+{CoinFullName: "BitCore", CoinShortName: "BTX", Algo: "Timetravel10", BlockReward: 3.13, BlockTime: 161, BlockExplorerType: "cryptoid"}
+{CoinFullName: "BitCore", CoinShortName: "BTX", Algo: "Timetravel10", BlockReward: 3.13, BlockTime: 161}
+{CoinFullName: "Bithold", CoinShortName: "BHD", Algo: "C11", BlockReward: 37, BlockTime: 90, BlockExplorer: "http://bithold.lchain.cc/ext/summary"}
+{CoinFullName: "BitSend", CoinShortName: "BSD", Algo: "Xevan", BlockReward: 5, BlockTime: 180}
+{coinFullName: "Bitspace", CoinShortName: "BSX", Algo: "Nist5", BlockReward: 100, BlockTime: 60, BlockExplorer: "http://bitspace.lchain.cc/ext/summary"}
+{coinFullName: "Brofist", CoinShortName: "PEW", Algo: "NeoScrypt", BlockReward: 6, BlockTime: 120, BlockExplorer: "http://brofistcoin.lchain.cc/ext/summary"}
+{coinFullName: "Bulwark", CoinShortName: "BWK", Algo: "Nist5", BlockReward: 21.875, BlockTime: 90, BlockExplorer: "http://jabe.network:3001/ext/summary"}
+{CoinFullName: "BZL Coin", CoinShortName: "BZL", Algo: "Tribus", BlockReward: 1, BlockTime: 30}
+{CoinFullName: "CelerCoin", CoinShortName: "CELER", Algo: "NeoScrypt", BlockReward: 2, BlockTime: 120, BlockExplorer: "http://explorer.celercoin.com/ext/summary"}
+{CoinFullName: "Cerberus", CoinShortName: "CBS", Algo: "NeoScrypt", BlockReward: 5.4, BlockTime: 120, BlockExplorer: "http://exp.cerberuscoin.com/ext/summary"}
+{CoinFullName: "Coin2fly", CoinShortName: "CTF", Algo: "NeoScrypt", BlockReward: 7.5, BlockTime: 150, BlockExplorer: "http://explorer.coin2fly.com/ext/summary"}
+{coinFullName: "CoreZ", CoinShortName: "CRZ", Algo: "NeoScrypt", BlockReward: 8, BlockTime: 90, BlockExplorer: "http://explorer.corez.site:3001/ext/summary"}
+{CoinFullName: "CreativeCoin", CoinShortName: "CREA", Algo: "SHA-3", BlockReward: 21, BlockTime: 120, BlockExplorer: "https://chainz.cryptoid.info/crea/api.dws?q=getdifficulty"}
+{CoinFullName: "CriptoReal", CoinShortName: "CRS", Algo: "Lyra2z", BlockReward: 0.5, BlockTime: 120, BlockExplorer: "https://explorer.criptoreal.org/ext/summary"}
+{CoinFullName: "CurveCoin", CoinShortName: "CURV", Algo: "Skein", BlockReward: 22.169, BlockTime: 90, BlockExplorer: "https://curve.uexplorer.me/api/chart/stat"}
+{coinFullName: "Denarius", CoinShortName: "DNR", Algo: "Tribus", BlockReward: 2, BlockTime: 30, BlockExplorer: "https://denariusexplorer.org/ext/summary"}
+{CoinFullName: "Desire", CoinShortName: "DSR", Algo: "NeoScrypt", BlockReward: 19, BlockTime: 150, BlockExplorer: "http://desire.lchain.cc/ext/summary"}
+{CoinFullName: "Dinero", CoinShortName: "DIN", Algo: "NeoScrypt", BlockReward: 16.5, BlockTime: 90, BlockExplorer: "http://explorer.dinerocoin.org/ext/summary"}
+{coinFullName: "DixiCoin", CoinShortName: "DXC", Algo: "C11", BlockReward: 2, BlockTime: 60, BlockExplorer: "http://www.dixi.live/ext/summary"}
+{CoinFullName: "Electroneum", CoinShortName: "ETN", Algo: "CryptoNight", BlockReward: 7028.66, BlockTime: 59, BlockExplorer:  "http://us-api.hashparty.io/stats"}
+{CoinFullName: "Endorphin", CoinShortName: "END", Algo: "NeoScrypt", BlockReward: 5, BlockTime: 120, BlockExplorer: "http://exp.endorphin.network/ext/summary"}
+{coinFullName: "Enixt", CoinShortName: "ENIX", Algo: "Skein", BlockReward: 8, BlockTime: 60, BlockExplorer: "http://enixt.lchain.cc/ext/summary"}
+{CoinFullName: "EthereumFuture", CoinShortName: "ETHF", Algo: "Nist5", BlockReward: 8, BlockTime: 90, BlockExplorer: "http://explorer.ethereumfuture.net/ext/summary"}
+{coinFullName: "Ferrum", CoinShortName: "FRM", Algo: "Skein", BlockReward: 7, BlockTime: 60}
+{CoinFullName: "FolmCoin", CoinShortName: "FLM", Algo: "PHI", BlockReward: 30, BlockTime: 120, BlockExplorer: "http://explorer.folm.io/api/chart/stat"}
+{CoinFullName: "Fonero", CoinShortName: "FNO", Algo: "CryptoNight", BlockReward: 25.9552, BlockTime: 120, BlockExplorer: "https://api-fno.easyhash.io/stats"}
+{CoinFullName: "Galactrum", CoinShortName: "ORE", Algo: "Lyra2REv2", BlockReward: 5, BlockTime: 120, BlockExplorer: "http://ore.explorerz.top:3017/ext/summary"}
+{CoinFullName: "GarlicCoin", CoinShortName: "GRLC", Algo: "Scrypt", BlockReward: 50, BlockTime: 40, BlockExplorer: "https://explorer.grlc-bakery.fun/ext/summary"}
+{coinFullName: "GinCoin", CoinShortName: "GIN", Algo: "NeoScrypt", BlockReward: 10, BlockTime: 120, BlockExplorer: "https://explorer.gincoin.io/ext/summary"}
+{CoinFullName: "Goa Coin", CoinShortName: "GOA", Algo: "NeoScrypt", BlockReward: 5, BlockTime: 150, BlockExplorer: "http://goa.altexplorer.co/ext/summary"}
+{CoinFullName: "Guncoin", CoinShortName: "GUN", Algo: "NeoScrypt", BlockReward: 150, BlockTime: 120}
+{CoinFullName: "HTKcoin", CoinShortName: "HTK", Algo: "X11", BlockReward: 3, BlockTime: 60, BlockExplorer: "http://explorer.hiddentalk.io/ext/summary"}
+{CoinFullName: "Infinex", CoinShortName: "IFX", Algo: "Lyra2z", BlockReward: 5, BlockTime: 90, BlockExplorer: "http://explorer.infinex.info/ext/summary"}
+{CoinFullName: "Innova", CoinShortName: "INN", Algo: "NeoScrypt", BlockReward: 10, BlockTime: 120, BlockExplorer: "http://explorer.innovacoin.info/ext/summary"}
+{CoinFullName: "IntenseCoin", CoinShortName: "ITNS", Algo: "CryptoNight", BlockReward: 1422.852, BlockTime: 120, BlockExplorer: "http://192.124.18.154:8117/stats"}
+{coinFullName: "IntermodalCoin", CoinShortName: "IMC", Algo: "C11", BlockReward: 10, BlockTime: 90, BlockExplorer: "http://explorer.intermodalcoin.online/ext/summary"}
+{coinFullName: "JoltGas", CoinShortName: "JLG", Algo: "C11", BlockReward: 25, BlockTime: 210, BlockExplorer: "http://joltgas.lchain.cc/ext/summary"}
+{CoinFullName: "LeviarCoin", CoinShortName: "XLC", Algo: "CryptoNight", BlockReward: 8.2822, BlockTime: 60, BlockExplorer: "https://leviarcoin.hashvault.pro/api/network/stats"}
+{CoinFullName: "Lizus", CoinShortName: "LIZ", Algo: "Skein", BlockReward: 10.19, BlockTime: 60, BlockExplorer: "http://lizus.lchain.cc/ext/summary"}
+{CoinFullName: "LuckyBit", CoinShortName: "LUCKY", Algo: "NeoScrypt", BlockReward: 1, BlockTime: 180, BlockExplorer: "http://178.62.73.188:3001/ext/summary"}
+{CoinFullName: "Lunex", CoinShortName: "LUNEX", Algo: "Lyra2REv2", BlockReward: 3, BlockTime: 120, BlockExplorer: "http://explorer.lunexcrypto.com/ext/summary"}
+{coinFullName: "LuxCoin", CoinShortName: "LUX", Algo: "PHI", BlockReward: 10, BlockTime: 60, BlockExplorer: "https://explorer.luxcore.io/ext/summary"}
+{CoinFullName: "MagnetCoin", CoinShortName: "MAG", Algo: "X11", BlockReward: 100, BlockTime: 90, BlockExplorer: "http://35.202.4.153:3001/ext/summary"}
+{CoinFullName: "Muncoin", CoinShortName: "MUN", Algo: "Skunkhash", BlockReward: 5, BlockTime: 150, BlockExplorer: "http://explorer.muncoin.info/ext/summary"}
+{CoinFullName: "NativeAmerican", CoinShortName: "NAC", Algo: "Scrypt", BlockReward: 4, BlockTime: 240, BlockExplorer: "http://128.199.42.147:3001/ext/summary"}
+{CoinFullName: "Nekonium", CoinShortName: "NUKO", Algo: "Ethereum", BlockReward: 7.5, BlockTime: 12, BlockExplorer: "minerpool"}
+{CoinFullName: "Nihilo", CoinShortName: "NIHL", Algo: "NeoScrypt", BlockReward: 10, BlockTime: 120, BlockExplorer: "http://172.104.246.158/ext/summary"}
+{CoinFullName: "Northern", CoinShortName: "NORT", Algo: "Xevan", BlockReward: 5, BlockTime: 60, BlockExplorer: "http://explorer.nort.network/ext/summary"}
+{CoinFullName: "Nyx Coin", CoinShortName: "NYX", Algo: "NeoScrypt", BlockReward: 2, BlockTime: 120, BlockExplorer: "http://explorer.nyxcoin.org/ext/summary"}
+{CoinFullName: "Onex Network", CoinShortName: "ONEX", Algo: "NeoScrypt", BlockReward: 5, BlockTime: 90, BlockExplorer: "http://explorer.onex.network:3001/ext/summary"}
+{CoinFullName: "Pegascoin", CoinShortName: "PGC", Algo: "Ethereum", BlockReward: 5, BlockTime: 30, BlockExplorer: "minerpool"}
+{coinFullName: "PesoCoin", CoinShortName: "PSO", Algo: "X11", BlockReward: 12.5, BlockTime: 120, BlockExplorer: "http://peso.network/ext/summary"}
+{coinFullName: "PulsarCoin", CoinShortName: "PLSR", Algo: "hmq1725", BlockReward: 10, BlockTime: 60, BlockExplorer: "http://pulsar.lchain.cc/ext/summary"}
+{coinFullName: "PyroCoin", CoinShortName: "PYRO", Algo: "Lyra2z", BlockReward: 4, BlockTime: 120, BlockExplorer: "http://138.68.246.198:3001/ext/summary"}
+{CoinFullName: "QbicCoin", CoinShortName: "QBIC", Algo: "NeoScrypt", BlockReward: 10, BlockTime: 120, BlockExplorer: "http://explorer.qbic.io:3001/ext/summary"}
+{CoinFullName: "RaceCoin", CoinShortName: "RACE", Algo: "Lyra2REv2", BlockReward: 4.8, BlockTime: 90, BlockExplorer: "http://45.32.147.232:3001/ext/summary"}
+{CoinFullName: "Rapture", CoinShortName: "RAP", Algo: "NeoScrypt", BlockReward: 2.97, BlockTime: 120, BlockExplorer: "http://explorer.our-rapture.com/ext/summary"}
+{CoinFullName: "Ravencoin", CoinShortName: "RVN", Algo: "x16r", BlockReward: 5000, BlockTime: 60, BlockExplorer: "http://explorer.threeeyed.info/ext/summary"}
+{CoinFullName: "Salencoin", CoinShortName: "SLN", Algo: "NeoScrypt", BlockReward: 7.5, BlockTime: 150, BlockExplorer: "http://explorer.salencoin.com/ext/summary"}
+{coinFullName: "ScrivCoin", CoinShortName: "SCRIV", Algo: "Tribus", BlockReward: 4.8, BlockTime: 30, BlockExplorer: "http://explorer.scriv.network/ext/summary"}
+{CoinFullName: "Shield B2S", CoinShortName: "XSH", Algo: "Blake 2s", BlockReward: 125, BlockTime: 60, BlockExplorer: "http://blockstats.pw/shield/api/"}
+{CoinFullName: "Shield Lyra2REv2", CoinShortName: "XSH", Algo: "Lyra2REv2", BlockReward: 125, BlockTime: 60, BlockExplorer: "http://blockstats.pw/shield/api/"}
+{CoinFullName: "Shield X17", CoinShortName: "XSH", Algo: "x17", BlockReward: 125, BlockTime: 60, BlockExplorer: "http://blockstats.pw/shield/api/"}
+{CoinFullName: "SkeinCoin", CoinShortName: "SKC", Algo: "Skein", BlockReward: 1, BlockTime: 60, BlockExplorer: "http://xplorer.skeincoin.co/ext/summary"}
+{CoinFullName: "SnowGem", CoinShortName: "SNG", Algo: "Equihash", BlockReward: 19, BlockTime: 60, BlockExplorer: "https://explorer.snowgem.org/ext/summary"}
+{coinFullName: "Sparks", CoinShortName: "SPK", Algo: "NeoScrypt", BlockReward: 9, BlockTime: 120, BlockExplorer: "http://explorer.sparks.gold/ext/summary"}
+{CoinFullName: "Stellite", CoinShortName: "XTL", Algo: "CryptoNightV7", BlockReward: 17976, BlockTime: 60, BlockExplorer: "https://explorer.stellite.cash/api/networkinfo"}
+{CoinFullName: "Stipend", CoinShortName: "SPD", Algo: "C11", BlockReward: 15, BlockTime: 90, BlockExplorer: "http://explorer.stipend.me/ext/summary"}
+{CoinFullName: "Stone Coin", CoinShortName: "STONE", Algo: "NeoScrypt", BlockReward: 6, BlockTime: 120, BlockExplorer: "http://stonecrypto.org/ext/summary"}
+{CoinFullName: "STRAKS", CoinShortName: "STAK", Algo: "Lyra2REv2", BlockReward: 3.8, BlockTime: 60, BlockExplorer: "https://api.straks.info/v2/statistics/latest"}
+{CoinFullName: "Sumokin", CoinShortName: "SUMO", Algo: "CryptoNight", BlockReward: 36.45, BlockTime: 244, BlockExplorer: "https://pool.sumokoin.com:9118/stats"}
+{CoinFullName: "Taler", CoinShortName: "TLR", Algo: "Lyra2z", BlockReward: 50, BlockTime: 300, BlockExplorer: "http://taler-explorer.online/ext/summary"}
+{coinFullName: "TransendCoin", CoinShortName: "TSC", Algo: "Xevan", BlockReward: 23, BlockTime: 180, BlockExplorer: "https://explorer.transendcoin.com/ext/summary"}
+{CoinFullName: "Tune Coin", CoinShortName: "TUN", Algo: "NeoScrypt", BlockReward: 5, BlockTime: 90, BlockExplorer: "http://173.249.24.88:3001/ext/summary"}
+{CoinFullName: "Tune Coin", CoinShortName: "TUN", Algo: "NeoScrypt", BlockReward: 5, BlockTime: 90, BlockExplorer: "http://explorer.tunecrypto.io/ext/summary"}
+{CoinFullName: "UFO", CoinShortName: "UFO", Algo: "NeoScrypt", BlockReward: 625, BlockTime: 90}
+{coinFullName: "UltimaCoin", CoinShortName: "ULT", Algo: "Skein", BlockReward: 0.6, BlockTime: 30, BlockExplorer: "https://ult.blockrex.info/ext/summary"}
+{CoinFullName: "Ultranote", CoinShortName: "XUN", Algo: "Skein", BlockReward: 150, BlockTime: 120, BlockExplorer: "http://alpha.ultranote.org:8117/stats"}
+{CoinFullName: "Verge B2S", CoinShortName: "XVG", Algo: "Blake 2s", BlockReward: 150, BlockTime: 150, BlockExplorer: "https://verge-blockchain.info/api/getdifficulty"}
+{CoinFullName: "Ultranote", CoinShortName: "XUN", Algo: "Skein", BlockReward: 150, BlockTime: 120, BlockExplorer: "http://alpha.ultranote.org:8117/stats"}
+{CoinFullName: "Urals Coin", CoinShortName: "URALS", Algo: "Xevan", BlockReward: 40, BlockTime: 180, BlockExplorer: "http://exp.uralscoin.info:3001/ext/summary"}
+{coinFullName: "Victorium", CoinShortName: "VIC", Algo: "Ethereum", BlockReward: 6.25, BlockTime: 30, BlockExplorer: "minerpool"}
+{CoinFullName: "Virtus", CoinShortName: "VRT", Algo: "Tribus", BlockReward: 12, BlockTime: 60, BlockExplorer: "http://213.183.45.119:3001/ext/summary"}
+{CoinFullName: "Whalecoin", CoinShortName: "WHALE", Algo: "Ethereum", BlockReward: 3.06, BlockTime: 20, BlockExplorer: "minerpool"}
+{CoinFullName: "Vivo2", CoinShortName: "VIVO", Algo: "NeoScrypt", BlockReward: 5, BlockTime: 120, BlockExplorer: "http://vivo.explorerz.top:3003/ext/summary"}
+{CoinFullName: "Xhimera", CoinShortName: "XHM", Algo: "Xevan", BlockReward: 1.98, BlockTime: 360, BlockExplorer: "https://xhimera.info/ext/summary"}
+{CoinFullName: "Xuma", CoinShortName: "XMX", Algo: "Quark", BlockReward: 50, BlockTime: 60, BlockExplorer: "http://explorer.xumacoin.org/ext/summary"}
+{CoinFullName: "Zacacoin", CoinShortName: "ZACA", Algo: "Scrypt", BlockReward: 4, BlockTime: 60, BlockExplorer: "http://explorer.zacacoin.com/ext/summary"}
+{CoinFullName: "Zcoin", CoinShortName: "XZC", Algo: "Lyra2z", BlockReward: 28, BlockTime: 557, BlockExplorer: "https://explorer.zcoin.io/ext/summary"}
+{CoinFullName: "Zero", CoinShortName: "ZER", Algo: "Equihash", BlockReward: 10, BlockTime: 120, BlockExplorer: "https://zeroexplorer.forgetop.com/ext/summary"}
+{CoinFullName: "ZexCoin", CoinShortName: "ZEX", Algo: "X11", BlockReward: 4, BlockTime: 120, BlockExplorer: "http://explorer.zexcoin.org/ext/summary"}
