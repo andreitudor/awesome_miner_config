@@ -1,0 +1,1 @@
+# awsome_miner_config
